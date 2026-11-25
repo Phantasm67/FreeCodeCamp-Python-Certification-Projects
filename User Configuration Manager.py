@@ -1,8 +1,8 @@
 test_settings = {
     'theme': 'dark',
     'notifications': 'enabled',
-    'volume': 'high'
-}
+    'volume': 'high'}
+
 new_settings = ('TheME', 'Dark')
 
 def convert_lower(a_tuple):
